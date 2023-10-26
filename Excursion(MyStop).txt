@@ -1,6 +1,0 @@
-// Excursion(MyStop).txt
-
-Remove Module(ViewPosition)
-
-HideObject("MyStop")
-ShowObject("MyStart")
