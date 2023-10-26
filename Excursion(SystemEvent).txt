@@ -1,3 +1,0 @@
-// Excursion(SystemEvent).txt
-
-ShowObject("Maps")
