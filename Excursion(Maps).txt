@@ -1,8 +1,0 @@
-// Excursion(Maps).txt
-
-DoModule Excursion
-
-NumberObject = ^NumberObject
-imageObject = ^ArrayPropertyObject[NumberObject]
-
-FotoMaps.file = imageObject
