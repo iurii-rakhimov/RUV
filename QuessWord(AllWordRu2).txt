@@ -4,7 +4,7 @@
 ДЕДА*https://static.wixstatic.com/media/6790e2_9f316204acd14be2bac0ef07a34826cd~mv2.jpeg
 ДЯДЯ*https://static.wixstatic.com/media/6790e2_c8fe84db8eee4887a164e7f90ecca6eb~mv2.png
 БРАТ*https://static.wixstatic.com/media/6790e2_e428d3144aac46f996313b471cdd010c~mv2.png
-ДЕЛЯ*https://static.wixstatic.com/media/6790e2_d3f1b606eb0948ccade57458fc7c9f20~mv2.jpg
+ДЕЛЯ*https://static.wixstatic.com/media/6790e2_cf8deb7b046a42e5b36e73951734e8b2~mv2.png
 ЛИЛЯ*https://static.wixstatic.com/media/6790e2_56d3abfd2f9c490aa47f9b86551b9cea~mv2.jpeg
 ДАНЯ*https://static.wixstatic.com/media/6790e2_064811f6d75f4e67b8e1b06327010240~mv2.png
 Жаба*https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Australian_toad.jpg/1600px-Australian_toad.jpg
