@@ -8,7 +8,7 @@
 ЛИЛЯ*https://static.wixstatic.com/media/6790e2_56d3abfd2f9c490aa47f9b86551b9cea~mv2.jpeg
 ДАНЯ*https://static.wixstatic.com/media/6790e2_064811f6d75f4e67b8e1b06327010240~mv2.png
 Жаба*https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Australian_toad.jpg/1600px-Australian_toad.jpg
-СОБАКА*https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dog_%28Canis_lupus_familiaris%29_%282%29.jpg/1600px-Dog_%28Canis_lupus_familiaris%29_%282%29.jpg
+СОБАКА*https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Canis_lupus_familiaris_Perro_Mestizo.JPG/1600px-Canis_lupus_familiaris_Perro_Mestizo.JPG
 ЧАСЫ*https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Pocket_watch_with_chain.jpg/1600px-Pocket_watch_with_chain.jpg
 БАНЯ*https://roomester.ru/wp-content/uploads/2019/07/obustrojstvo-bani-7.jpg
 ВАЗА*https://cs2.livemaster.ru/storage/1f/2e/4801228c207ba60a3b1cbc2da6nb--dlya-doma-i-interera-vazy-dlya-tsvetov.jpg
